@@ -1,2 +1,2 @@
-# coursera-algorithm
+# Algorithm
  Algorithms, Part I
